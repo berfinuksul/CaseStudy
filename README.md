@@ -1,1 +1,1 @@
-# CaseStudy
+# Case Study
