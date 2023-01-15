@@ -7,9 +7,13 @@
 
 
 
+
+
 -Products database'in MongoDb'deki görünümü
 
 ![mongodb](https://user-images.githubusercontent.com/85320273/212531976-76403f97-dc6a-492f-9556-955dc3b20ce2.png)
+
+
 
 
 
@@ -20,10 +24,10 @@
 
 
 
+
+
+
 -Basket içindeki verilerin Redis görünümü
 
 ![redis](https://user-images.githubusercontent.com/85320273/212532019-8c680b93-cc6e-4627-9123-b3de0af7d5ba.png)
-
-
-
 
